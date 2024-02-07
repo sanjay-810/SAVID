@@ -62,7 +62,4 @@ This is the official implementation of [**savid: Spectravista Aesthetic Vision I
     scripts/dist_test.sh 8 --cfg_file cfgs/argoverse_models/savid.yaml  --gpu_id 0,1,2,3,4,5,6,7 --batch_size 28 \
     --ckpt ../output/argoverse_models/savid/default/ckpt/checkpoint_epoch_58.pth
     ```
-    
-
-### Weights will be provided once the paper is accepted.
 ### Thank you 🙏.
