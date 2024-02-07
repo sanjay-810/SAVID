@@ -1,5 +1,5 @@
 # SaVID: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments
-<p align="center"> <img src='docs/savid_framework.png' align="center" height="300px"> </p>
+<p align="center"> <img src='docs/savid_framework.jpg' align="center" height="300px"> </p>
 
 This is the official implementation of [**savid: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**], built on [`Deep Fusion`](https://github.com/tensorflow/lingvo) and [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet) 
 
